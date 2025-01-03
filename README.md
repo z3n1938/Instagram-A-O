@@ -1,4 +1,4 @@
-# Instagram Bulk Operations Script
+# Instagram A İ O
 
 This script allows you to perform various bulk operations on Instagram profiles and posts, such as fetching Reels links, scraping profile data, downloading videos from posts, and downloading profile pictures. It utilizes `Instaloader` for Instagram data retrieval and `requests` for downloading content. The script also uses `colorama` for terminal output color formatting.
 
